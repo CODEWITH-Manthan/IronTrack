@@ -1,0 +1,6 @@
+{
+  "name": "IronTrack – Modern Gym Tracking",
+  "description": "Premium dark-themed gym tracking application with workout logging, exercise library, live timers, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
